@@ -1,16 +1,20 @@
-### Hi there 👋
+- 2014      : Graduated with a BA in Computer Science
+- 2014~2015 : Software engineer working with: Java, HDFS, HBase, MapReduce, AWS
+- 2015~2017 : Software engineer working with: C++, C
+- 2018~2020 : Master's in Agriculture working with: [H08 Hydrological Model](https://h08.nies.go.jp/h08/introduction.html), Python, Fortran
+- 2022~2023 : Software engineer working with: Swift, JavaScript, AWS, WebRTC
+- 2023      : Attended [Recurse Center](https://www.recurse.com/)
 
-<!--
-**SlyPuffin/SlyPuffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Gyrifier flashcards application
+<p align="middle">
+<img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-1.gif" width="200">
+<img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-2.gif" width="200">
+<img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-3.gif" width="200">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning Unity
+<p align="middle">
+<img src="https://github.com/SlyPuffin/chick-chick-go/blob/main/Media/unity-xp-1.gif" width="200">
+<img src="https://github.com/SlyPuffin/chick-chick-go/blob/main/Media/unity-xp-2.gif" width="200">
+<img src="https://github.com/SlyPuffin/chick-chick-go/blob/main/Media/unity-xp-3.gif" width="200">
+</p>
