@@ -6,10 +6,10 @@
 - 2023      : Attended [Recurse Center](https://www.recurse.com/)
 
 ### Gyrifier flashcards application
-<p align="middle">
-<img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-1.gif" width="200">
-<img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-2.gif" width="200">
-<img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-3.gif" width="200">
+<p align="left">
+<img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-1.gif" width="172">
+<img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-2.gif" width="172">
+<img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-3.gif" width="172">
 </p>
 <!--
 ### Learning Unity
