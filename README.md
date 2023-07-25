@@ -2,7 +2,7 @@
 - 2014~2015 : Software engineer at [NextEra Analytics](https://www.nexteraanalytics.com/products/smart-grid-analytics.html) working with: Java, HDFS, HBase, MapReduce, AWS
 - 2015~2017 : Software engineer at [Nintedo Technology Development](https://developer.nintendo.com/) working with: C++, C
 - 2018~2020 : Master's in Agriculture working with: [H08 Hydrological Model](https://h08.nies.go.jp/h08/introduction.html), Python, Fortran
-- 2022~2023 : Software engineer at [NTT Smart Connect](https://www.nttsmc.com/auscultation/) working with: Swift, JavaScript, AWS, WebRTC
+- 2020~2023 : Software engineer at [NTT Smart Connect](https://www.nttsmc.com/auscultation/) working with: Swift, JavaScript, AWS, WebRTC
 - 2023      : Attended [Recurse Center](https://www.recurse.com/)
 
 ### Gyrifier flashcards application
