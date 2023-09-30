@@ -1,5 +1,4 @@
-<html>
-  <h3>A Brief History</h3>
+### A Brief History
   <ul>
     <li>2014      : Graduated with a <a href="https://www.macalester.edu/mscs/" target="_blank" rel="noopener noreferrer">BA in Computer Science</a></li>
     <li>2014~2015 : Software engineer at <a href="https://www.nexteraanalytics.com/products/smart-grid-analytics.html" target="_blank" rel="noopener noreferrer">NextEra Analytics</a> working with: Java, HDFS, HBase, MapReduce, AWS</li>
@@ -9,7 +8,7 @@
     <li>2023      : Attended <a href="https://www.recurse.com/" target="_blank" rel="noopener noreferrer">Recurse Center</a></li>
   </ul>
 
-  <h3>Links</h3>
+### Links
   <ul style="margin: auto; text-align: center;">
     <li><a href="https://dvoss.info" target="_blank" rel="noopener noreferrer">Portfolio</a></li>
     <li><a href="https://slypuffin.itch.io/" target="_blank" rel="noopener noreferrer">Itch.io</a></li>
@@ -17,7 +16,7 @@
   </ul>
   </div>
 
-  <h3>Projects</h3>
+### Projects
   <details>
     <summary>👾 48h Game Jam Submission</summary>
     <h4>Chick Chick Go!</h4>
@@ -57,4 +56,3 @@
     <img src="https://img.youtube.com/vi/bsCMv3787wc/0.jpg" alt="Rust Music Tracker JPG" /><br />
     <a href="https://github.com/SlyPuffin/musictracker">Repository</a>
   </details>
-</html>
