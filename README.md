@@ -22,25 +22,25 @@
     <summary>👾 48h Game Jam Submission</summary>
     <h4>Chick Chick Go!</h4>
     <img src="https://dvoss.info/chickchick.gif" alt="Chick Chick Go! GIF" /><br />
-    <a>Repository</a>
+    <a href="https://github.com/SlyPuffin/chick-chick-go">Repository</a>
   </details>
   <details>
     <summary>✍️ Task Management Web Application</summary>
     <h4>ShooChoo To-Do</h4>
     <img src="https://dvoss.info/shoochoo.gif" alt="ShooChoo To-Do GIF" /><br />
-    <a>Repository</a>
+    <a href="https://github.com/SlyPuffin/shoochoo">Repository</a>
   </details>
   <details>
     <summary>🏞️ Interactive Musical Visualizations</summary>
     <h4>Genkaku</h4>
     <img src="https://dvoss.info/genkaku.gif" alt="Genkaku GIF" /><br />
-    <a>Repository</a>
+    <a href="https://github.com/SlyPuffin/genkaku">Repository</a>
   </details>
   <details>
     <summary>🎯 iOS Matching Game</summary>
     <h4>ShakeDown MatchUp</h4>
     <img src="https://dvoss.info/shakedown.gif" alt="ShakeDown MatchUp GIF" /><br />
-    <a>Repository</a>
+    <a href="https://github.com/SlyPuffin/mismatched-hallucinations-ios">Repository</a>
   </details>
   <details>
     <summary>🧠 iOS Flashcards App</summary>
@@ -50,11 +50,11 @@
       <img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-2.gif" alt="Gyrifier GIF" width="172">
       <img src="https://github.com/SlyPuffin/gyrifier-ios/blob/main/gyrifier/Media/2023-07-05-gyrifier-screencap-3.gif" alt="Gyrifier GIF" width="172">
     </p>
-    <a>Repository</a>
+    <a href="https://github.com/SlyPuffin/gyrifier-ios">Repository</a>
   </details>
   <details>
     <summary>🥁 Rust Music Tracker</summary>
     <img src="https://img.youtube.com/vi/bsCMv3787wc/0.jpg" alt="Rust Music Tracker JPG" /><br />
-    <a>Repository</a>
+    <a href="https://github.com/SlyPuffin/musictracker">Repository</a>
   </details>
 </html>
